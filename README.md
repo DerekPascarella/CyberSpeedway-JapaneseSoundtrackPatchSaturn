@@ -1,7 +1,7 @@
 <h1>Cyber Speedway</h1>
-A patch to use the Japanese soundtrack on the NTSC-U version of the Sega Saturn game "Cyber Speedway". 
+<img width="165" src="https://github.com/DerekPascarella/CyberSpeedway-JapaneseSoundtrackPatchSaturn/blob/main/cover.png?raw=true" align="right">A patch to use the Japanese soundtrack on the NTSC-U version of the Sega Saturn game "Cyber Speedway". 
 <br><br>
-<b>Download Patch:</b> <a href="xxx">Cyber Speedway (Japanese Soundtrack Patch).zip</a>
+<b>Download Patch:</b> <a href="https://github.com/DerekPascarella/CyberSpeedway-JapaneseSoundtrackPatchSaturn/releases/download/1.0/Cyber.Speedway.Japanese.Soundtrack.Patch.zip">Cyber Speedway (Japanese Soundtrack Patch).zip</a>
 
 <h2>Patching Instructions</h2>
 <ol type="1">
