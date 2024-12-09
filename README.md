@@ -7,7 +7,7 @@ This patch restores the soundtrack composed by <a href="https://www.mobygames.co
 
 <h2>Patching Instructions</h2>
 <ol type="1">
-<li>Extract the <tt>Cyber Speedway (Japanese Soundtrack Patch).zip</tt> archive the folder of your choosing.</li>
+<li>Extract the <tt>Cyber Speedway (Japanese Soundtrack Patch).zip</tt> archive to the folder of your choosing.</li>
 <li>Place the <a href="http://redump.org/disc/20306/">NTSC-U Redump rip of "Cyber Speedway"</a> in the <tt>redump_original</tt> folder.</li>
 <li>Launch <tt>apply_patch.bat</tt>.</li>
 <li>Once complete, the patched version of the game will reside in the <tt>patched</tt> folder.</li>
